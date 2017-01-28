@@ -18,6 +18,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [SASS] (http://sass-lang.com/)
 * [SUSY] (http://susy.oddbird.net/)
 * [SASS vs LESS] (https://www.keycdn.com/blog/sass-vs-less/)
+* [Animate] (https://daneden.github.io/animate.css/)
 
 ## TESTING
 * [Protractor] (http://www.protractortest.org/#/)
