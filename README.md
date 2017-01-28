@@ -1,5 +1,5 @@
 # front-end-resources
-Repo of front-end standards, techniques and topics relevant to my projects
+A repo of front-end standards, techniques and topics relevant to my present and future projects.
 
 ## JS
 * [Angular 2](https://angular.io/)
