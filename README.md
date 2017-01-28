@@ -10,19 +10,24 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## Mobile First
 * [Josh Clark's Seven Deadly Mobile Myths] (https://www.mediacurrent.com/resources/videos/josh-clark-seven-deadly-mobile-myths)
   * I can't emphasize enough how important this presentation was to me. 
-
-## JS
-* [Angular 2](https://angular.io/)
-* [Typescript] (https://www.typescriptlang.org/)
-* [Express] (http://expressjs.com/)
-* [NodeJs] (https://nodejs.org/en/)
-
+  
 ## CDN
 * [JavaScript] (https://cdnjs.com/)
 * [Google] (https://developers.google.com/speed/libraries/)
 * [Mixed] (https://www.jsdelivr.com/)
 * [Akamai] (https://www.akamai.com/)
 * [CloudFlare] (https://www.cloudflare.com/)
+
+## JS
+* [Angular 2](https://angular.io/)
+* [Typescript] (https://www.typescriptlang.org/)
+* [Express] (http://expressjs.com/)
+* [NodeJs] (https://nodejs.org/en/)
+* [Jquery] (https://jquery.com/)
+  * My goal is to decrease my dependency on using this library within my projects.
+
+## HTML5
+* [CanIUse] http://caniuse.com/
 
 ## CSS
 * [Block-Element-Modifier] (http://getbem.com/naming/)
