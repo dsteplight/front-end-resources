@@ -12,3 +12,6 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Material Design] (https://material.io/guidelines/)
 * [SASS] (http://sass-lang.com/)
 * [SUSY] (http://susy.oddbird.net/)
+
+## TESTING
+* [Protractor] (http://www.protractortest.org/#/)
