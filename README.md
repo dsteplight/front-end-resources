@@ -1,4 +1,4 @@
-# Front-end Resources
+# Front-End Resources
 A repo of front-end standards, techniques and topics relevant to my present and future projects.
 
 ## JS
@@ -9,7 +9,9 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## CDN
 * [JS] (https://cdnjs.com/)
 * [Google] (https://developers.google.com/speed/libraries/)
-* [ Mixed] (https://www.jsdelivr.com/)
+* [Mixed] (https://www.jsdelivr.com/)
+* [Akamai] (https://www.akamai.com/)
+* [CloudFlare] (https://www.cloudflare.com/)
 
 ## CSS
 * [Block-Element-Modifier] (http://getbem.com/naming/)
@@ -24,6 +26,6 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## TESTING
 * [Protractor] (http://www.protractortest.org/#/)
 
-## OPTIMIZATION
+## Front-End OPTIMIZATION
 * [Key CDN] (https://www.keycdn.com/blog/front-end-optimization/)
 * [Akamai] (https://www.akamai.com/us/en/resources/front-end-optimization-feo.jsp)
