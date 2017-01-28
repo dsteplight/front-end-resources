@@ -18,7 +18,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Akamai] (https://www.akamai.com/)
 * [CloudFlare] (https://www.cloudflare.com/)
 
-## JS
+## JavaScript
 * [Angular 2](https://angular.io/)
 * [Typescript] (https://www.typescriptlang.org/)
 * [Express] (http://expressjs.com/)
