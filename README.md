@@ -10,3 +10,5 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Block-Element-Modifier] (http://getbem.com/naming/)
 * [Comparing Bootstrap to Material Design] (http://demo.tutorialzine.com/2015/07/comparing-bootstrap-with-mdl/?icons)
 * [Material Design] (https://material.io/guidelines/)
+* [SASS] (http://sass-lang.com/)
+* [SUSSY] (http://susy.oddbird.net/)
