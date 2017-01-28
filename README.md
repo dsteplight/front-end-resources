@@ -1,6 +1,10 @@
 # Front-End Resources
 A repo of front-end standards, techniques and topics relevant to my present and future projects.
 
+## Mobile First
+* [Josh Clark's Seven Deadly Mobile Myths] (https://www.mediacurrent.com/resources/videos/josh-clark-seven-deadly-mobile-myths)
+  ** I can't emphasize enough how important this presentation was to me. 
+
 ## JS
 * [Angular 2](https://angular.io/)
 * [Typescript] (https://www.typescriptlang.org/)
