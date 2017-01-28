@@ -47,6 +47,8 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 
 ## TESTING
 * [Protractor] (http://www.protractortest.org/#/)
+* [PhantomJS] (http://phantomjs.org/)
+* [CasperJS] (http://casperjs.org/)
 
 ## Front-End OPTIMIZATION
 * [Key CDN] (https://www.keycdn.com/blog/front-end-optimization/)
