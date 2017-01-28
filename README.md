@@ -7,7 +7,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Express] (http://expressjs.com/)
 
 ## CDN
-* [JS] (https://cdnjs.com/)
+* [JavaScript] (https://cdnjs.com/)
 * [Google] (https://developers.google.com/speed/libraries/)
 * [Mixed] (https://www.jsdelivr.com/)
 * [Akamai] (https://www.akamai.com/)
