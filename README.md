@@ -42,6 +42,8 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## DEVELOPMENT
 * [Browser Sync] (https://browsersync.io/)
 * [Gulp] (http://gulpjs.com/)
+* [Npm] (https://www.npmjs.com/)
+* [Brower] (https://bower.io/)
 
 ## TESTING
 * [Protractor] (http://www.protractortest.org/#/)
