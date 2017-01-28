@@ -21,3 +21,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 
 ## TESTING
 * [Protractor] (http://www.protractortest.org/#/)
+
+## OPTIMIZATION
+* [Key CDN] (https://www.keycdn.com/blog/front-end-optimization/)
+* [Akamai] (https://www.akamai.com/us/en/resources/front-end-optimization-feo.jsp)
