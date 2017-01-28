@@ -2,6 +2,6 @@
 Repo of front-end standards, techniques and topics relevant to my projects
 
 ## CSS
-* http://getbem.com/naming/
-* http://demo.tutorialzine.com/2015/07/comparing-bootstrap-with-mdl/?icons
-* https://material.io/guidelines/
+* [Block-Element-Modifier] (http://getbem.com/naming/)
+* [Comparing Bootstrap to Material Design]http://demo.tutorialzine.com/2015/07/comparing-bootstrap-with-mdl/?icons
+* [Material Design](https://material.io/guidelines/)
