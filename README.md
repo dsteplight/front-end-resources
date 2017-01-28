@@ -26,7 +26,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Jquery] (https://jquery.com/)
   * My goal is to decrease my dependency on using this library within my projects.
 
-## HTML5
+## HTML 5
 * [CanIUse] (http://caniuse.com/)
 
 ## CSS
