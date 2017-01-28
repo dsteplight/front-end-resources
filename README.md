@@ -56,3 +56,4 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [CodePen] (http://codepen.io/)
 * [JSFiddle] (https://jsfiddle.net/)
 * [Plunker] (https://plnkr.co/)
+* [Sass Meister] (http://www.sassmeister.com/)
