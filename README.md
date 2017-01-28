@@ -40,3 +40,8 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## Front-End OPTIMIZATION
 * [Key CDN] (https://www.keycdn.com/blog/front-end-optimization/)
 * [Akamai] (https://www.akamai.com/us/en/resources/front-end-optimization-feo.jsp)
+
+## Playground
+* [CodePen] (http://codepen.io/)
+* [JSFiddle] (https://jsfiddle.net/)
+* [Plunker] (https://plnkr.co/)
