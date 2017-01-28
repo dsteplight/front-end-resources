@@ -27,7 +27,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
   * My goal is to decrease my dependency on using this library within my projects.
 
 ## HTML5
-* [CanIUse] http://caniuse.com/
+* [CanIUse] (http://caniuse.com/)
 
 ## CSS
 * [Block-Element-Modifier] (http://getbem.com/naming/)
