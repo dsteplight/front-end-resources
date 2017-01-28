@@ -1,6 +1,12 @@
 # Front-End Resources
 A repo of front-end standards, techniques and topics relevant to my present and future projects.
 
+#UX/UI
+* [UI Design Pattern and Explanations](http://ui-patterns.com/)
+* [Brad Frost's Atomic Design] (http://bradfrost.com/blog/post/atomic-web-design/)
+* [Interaction Design] (http://www.welie.com/patterns/index.php?__hstc=246535899.1289f84a362c41b80e5e8776d3502129.1435233910711.1437552535063.1437559001623.52&__hssc=246535899.8.1437559001623&__hsfp=3799412980)
+* [Real World Examples of UX/UI Patterns] (http://www.patternbrowser.org/code/pattern/pattern.php?4,1,1,1,1,8)
+
 ## Mobile First
 * [Josh Clark's Seven Deadly Mobile Myths] (https://www.mediacurrent.com/resources/videos/josh-clark-seven-deadly-mobile-myths)
   * I can't emphasize enough how important this presentation was to me. 
