@@ -7,7 +7,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Interaction Design] (http://www.welie.com/patterns/index.php?__hstc=246535899.1289f84a362c41b80e5e8776d3502129.1435233910711.1437552535063.1437559001623.52&__hssc=246535899.8.1437559001623&__hsfp=3799412980)
 * [Real World Examples of UX/UI Patterns] (http://www.patternbrowser.org/code/pattern/pattern.php?4,1,1,1,1,8)
 
-## Mobile First
+## MOBILE FIRST
 * [Josh Clark's Seven Deadly Mobile Myths] (https://www.mediacurrent.com/resources/videos/josh-clark-seven-deadly-mobile-myths)
   * I can't emphasize enough how important this presentation was to me. 
   
@@ -18,7 +18,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Akamai] (https://www.akamai.com/)
 * [CloudFlare] (https://www.cloudflare.com/)
 
-## JavaScript
+## JAVASCRIPT
 * [Angular 2](https://angular.io/)
 * [Typescript] (https://www.typescriptlang.org/)
 * [Express] (http://expressjs.com/)
@@ -26,7 +26,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Jquery] (https://jquery.com/)
   * My goal is to decrease my dependency on using this library within my projects.
 
-## HTML 5
+## HTML5
 * [CanIUse] (http://caniuse.com/)
 
 ## CSS
@@ -52,11 +52,11 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [CasperJS] (http://casperjs.org/)
 * [iOS Simulator] (https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html)
 
-## Front-End OPTIMIZATION
+## FRONT-END OPTIMIZATION
 * [Key CDN] (https://www.keycdn.com/blog/front-end-optimization/)
 * [Akamai] (https://www.akamai.com/us/en/resources/front-end-optimization-feo.jsp)
 
-## Playground
+## PLAYGROUND
 * [CodePen] (http://codepen.io/)
 * [JSFiddle] (https://jsfiddle.net/)
 * [Plunker] (https://plnkr.co/)
