@@ -41,6 +41,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Twitter Bootsrap] (http://getbootstrap.com/)
 * [SMACSS Scalable & Modular Architect for CSS] (https://smacss.com/)
 * [Shame] (https://csswizardry.com/2013/04/shame-css/)
+* [BEMIT] (https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
 ## DEVELOPMENT
 * [Browser Sync] (https://browsersync.io/)
