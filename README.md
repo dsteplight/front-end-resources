@@ -40,6 +40,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Animate] (https://daneden.github.io/animate.css/)
 * [Twitter Bootsrap] (http://getbootstrap.com/)
 * [SMACSS Scalable & Modular Architect for CSS] (https://smacss.com/)
+* [Shame] (https://csswizardry.com/2013/04/shame-css/)
 
 ## DEVELOPMENT
 * [Browser Sync] (https://browsersync.io/)
