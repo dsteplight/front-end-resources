@@ -1,7 +1,7 @@
 # Front-End Resources
 A repo of front-end standards, techniques and topics relevant to my present and future projects.
 
-#UX/UI
+## UX/UI
 * [UI Design Pattern and Explanations](http://ui-patterns.com/)
 * [Brad Frost's Atomic Design] (http://bradfrost.com/blog/post/atomic-web-design/)
 * [Pattern Lab] (http://patternlab.io/)
@@ -47,7 +47,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 ## DEVELOPMENT
 * [Browser Sync] (https://browsersync.io/)
 * [Gulp] (http://gulpjs.com/)
-* [Npm] (https://www.npmjs.com/)
+* [NPM] (https://www.npmjs.com/)
 * [Brower] (https://bower.io/)
 
 ## TESTING
