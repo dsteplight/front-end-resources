@@ -44,6 +44,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Shame] (https://csswizardry.com/2013/04/shame-css/)
 * [BEMIT] (https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 * [BEM Nesting] (https://www.sitepoint.com/working-bem-scale-advice-top-developers/)
+* [Style Guides] (http://styleguides.io/)
 
 ## DEVELOPMENT
 * [Browser Sync] (https://browsersync.io/)
