@@ -7,6 +7,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Pattern Lab] (http://patternlab.io/)
 * [Interaction Design] (http://www.welie.com/patterns/index.php?__hstc=246535899.1289f84a362c41b80e5e8776d3502129.1435233910711.1437552535063.1437559001623.52&__hssc=246535899.8.1437559001623&__hsfp=3799412980)
 * [Real World Examples of UX/UI Patterns] (http://www.patternbrowser.org/code/pattern/pattern.php?4,1,1,1,1,8)
+* [Journey First] (https://www.smashingmagazine.com/2017/02/mobile-first-is-just-not-good-enough-meet-journey-driven-design/)
 
 ## MOBILE FIRST
 * [Josh Clark's Seven Deadly Mobile Myths] (https://www.mediacurrent.com/resources/videos/josh-clark-seven-deadly-mobile-myths)
