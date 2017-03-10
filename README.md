@@ -25,6 +25,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Typescript] (https://www.typescriptlang.org/)
 * [Express] (http://expressjs.com/)
 * [NodeJs] (https://nodejs.org/en/)
+* [Babel] (https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=)
 * [Jquery] (https://jquery.com/)
   * My goal is to decrease my dependency on using this library within my projects.
 
