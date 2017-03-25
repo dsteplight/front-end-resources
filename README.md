@@ -57,7 +57,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 * [Protractor](http://www.protractortest.org/#/)
 * [PhantomJS](http://phantomjs.org/)
 * [CasperJS](http://casperjs.org/)
-* [iOS Simulator] (https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html)
+* [iOS Simulator](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html)
 
 ## FRONT-END OPTIMIZATION
 * [Key CDN](https://www.keycdn.com/blog/front-end-optimization/)
