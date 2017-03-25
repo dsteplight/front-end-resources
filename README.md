@@ -22,7 +22,7 @@ A repo of front-end standards, techniques and topics relevant to my present and 
 
 ## JAVASCRIPT
 * [Angular 2](https://angular.io/)
-* [ReactJS] (https://facebook.github.io/react/)
+* [ReactJS](https://facebook.github.io/react/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Express](http://expressjs.com/)
 * [NodeJs](https://nodejs.org/en/)
